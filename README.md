@@ -63,6 +63,12 @@ title('Frequency Response of FIR LPF using Hanning Window');
 <img width="757" height="712" alt="image" src="https://github.com/user-attachments/assets/0884b3fb-d36c-4858-b807-ff7a21b0fc09" />
 <img width="895" height="992" alt="image" src="https://github.com/user-attachments/assets/e1d0c7cb-1026-445f-8f74-327b6b1a072f" />
 
+# MANUAL CALCULATION:
+<img width="987" height="1600" alt="image" src="https://github.com/user-attachments/assets/a2c02eef-3f8e-4e31-9960-f32db2264922" />
+
+<img width="1440" height="1600" alt="image" src="https://github.com/user-attachments/assets/af400e2a-966f-4358-afc4-a83692eaa807" />
+
+
 # RESULT: 
 
 Thus design of low pass FIR digital filter using-Hanning-Window waveforms were plotted and output was verified.
